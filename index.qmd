@@ -1,0 +1,5 @@
+---
+title: "Example"
+---
+
+This project provides provides a simple scaffold for creating a Quarto Confluence Project. You'll almost certainly want to remove the sample files, they are just here as examples. When you add you own documents (including ones in subfolders) they will be automatically added to the site navigation sidebar.
